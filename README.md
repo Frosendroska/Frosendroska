@@ -3,7 +3,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">HSE AM&CS student</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frosendroska)](https://git.io/streak-stats)
+## Contributions 🔥
+<h1 align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Frosendroska&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</a> 
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
