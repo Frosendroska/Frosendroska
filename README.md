@@ -1,6 +1,7 @@
-# Hi there, I'm [Kate](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### HSE AM&CS student
 
+<h1 align="center">Hi there, I'm Kate</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">HSE AM&CS student</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
