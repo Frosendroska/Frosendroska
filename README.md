@@ -3,8 +3,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 👩 About me: 
-_National Research University Higher School of Economics_ 
-__"Applied Mathematics And Computer Science"__, 2nd grade
 
 ```python
 class Developer:
@@ -20,6 +18,10 @@ class Developer:
         
 Frosendroska = Developer()
 ```
+## Education:
+
+### _National Research University Higher School of Economics_  
+__"Applied Mathematics And Computer Science"__, 2nd grade
 
 ## 📂 Other achievements:
 
