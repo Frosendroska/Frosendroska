@@ -19,10 +19,14 @@ class Developer:
 Frosendroska = Developer()
 ```
 
-📂 Other achievements:
+## 📂 Other achievements:
+
 __2022__ 5/5 GPA
+
 __2020__ Graduated from high school with honours
+
 __2018__ English language level C1 certificate
+
 
 ## 📈 Some GitHub statistic:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frosendroska&theme=github_dark)
