@@ -22,8 +22,8 @@ Frosendroska = Developer()
 
 ## 📚 Education:
 
-### National Research University Higher School of Economics  
-### _"Applied Mathematics And Computer Science"_, 2nd grade
+<img src="https://www.hse.ru/data/2021/07/22/1216580421/HSE_University_white.jpg" height="32"/></h1>
+__National Research University Higher School of Economics__ "Applied Mathematics And Computer Science", _2nd grade_
 
 
 
