@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Kate</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">National Research University Higher School of Economics,  Bachelor Of Applied Mathematics Aan Computer Science, 2nd grade</h3>
+<h3 align="center">National Research University Higher School of Economics "Applied Mathematics And Computer Science", 2nd grade</h3>
 
 ```python
 class Developer:
