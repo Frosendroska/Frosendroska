@@ -22,7 +22,7 @@ Frosendroska = Developer()
 
 ## 📚 Education:
 
-<img src="https://www.hse.ru/mirror/pubs/share/522219670" height="32"/></h1>
+<img alt="Night Coding" src="https://www.hse.ru/mirror/pubs/share/522219670" align="right"/>
 - __NRU HSE__ "Applied Mathematics And Computer Science", _2nd grade_
 
 
