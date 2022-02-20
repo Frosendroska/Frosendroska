@@ -22,8 +22,8 @@ Frosendroska = Developer()
 
 ## 📚 Education:
 
-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hse.ru%2Finfo%2Fbrandbook%2F&psig=AOvVaw3XSZSI_EyKrCmY4b-amtu1&ust=1645466180581000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj49a3tjvYCFQAAAAAdAAAAABAD" height="32"/></h1>
-__NRU HSE__ "Applied Mathematics And Computer Science", _2nd grade_
+<img src="https://www.hse.ru/mirror/pubs/share/522219670" height="32"/></h1>
+- __NRU HSE__ "Applied Mathematics And Computer Science", _2nd grade_
 
 
 
