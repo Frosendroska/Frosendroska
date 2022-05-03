@@ -11,8 +11,8 @@ class Developer:
         self.name = 'Braun Kate'
         self.specialization = 'Still in search....'
         self.code = {
-            'languages': ['C/C++', 'Java', 'Python', 'Haskell', 'Bash'],
-            'technologies': ['Git', 'Docker', 'Latex'],
+            'languages': ['C/C++', 'Java', 'Python', 'SQL', 'Haskell', 'Bash'],
+            'technologies': ['Git', 'Docker', 'Spring', 'Latex'],
             'skills': ['Algorithms and Data Structures', 'Graph Theory', 'Combinatorics', 'Calculus', 'Linear Algebra', 'Probability Theory'],
         }
         
