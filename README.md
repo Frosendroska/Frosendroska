@@ -30,6 +30,8 @@ Frosendroska = Developer()
 
 ## 📂 Other achievements:
 
+__2022__ ![Certificate of C1 level of English](https://certs.duolingo.com/5ebe474dc8675eacad656573c50f81f7) 
+
 __2022__ 5/5 GPA
 
 __2020__ Graduated from high school with honours
