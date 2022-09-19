@@ -8,7 +8,7 @@
 class Developer:
     def __init__(self):
         self.username = 'Frosendroska'
-        self.name = 'Braun Kate'
+        self.name = 'Braun Ekaterina'
         self.specialization = 'Still in search....'
         self.code = {
             'languages': ['C/C++', 'Java', 'Kotlin', 'Python', 'Haskell', 'Bash'],
