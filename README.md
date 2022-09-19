@@ -13,7 +13,7 @@ class Developer:
         self.code = {
             'languages': ['C/C++', 'Java', 'Kotlin', 'Python', 'Haskell', 'Bash'],
             'technologies': ['Git', 'SQL', 'Spring', 'Docker', 'Latex', 'gRPC'],
-            'skills': ['Algorithms and Data Structures', 'Graph Theory', 'Combinatorics', 'Calculus', 'Linear Algebra', 'Probability Theory'],
+            'skills': ['Algorithms and Data Structures', 'Discrete Math', 'Calculus', 'Linear Algebra', 'Probability Theory', 'Machine Learning'],
         }
         
 Frosendroska = Developer()
