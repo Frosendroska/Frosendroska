@@ -12,7 +12,7 @@ class Developer:
         self.specialization = 'Still in search....'
         self.code = {
             'languages': ['C/C++', 'Java', 'Kotlin', 'Python', 'Haskell', 'Bash'],
-            'technologies': ['Git', 'SQL', 'Spring','Docker', 'Latex'],
+            'technologies': ['Git', 'SQL', 'Spring', 'Docker', 'Latex', 'gRPC'],
             'skills': ['Algorithms and Data Structures', 'Graph Theory', 'Combinatorics', 'Calculus', 'Linear Algebra', 'Probability Theory'],
         }
         
@@ -23,6 +23,7 @@ Frosendroska = Developer()
 ## 📚 Education:
 
 <img alt="HSE" height=40 src="https://www.hse.ru/mirror/pubs/share/522219670" align="right"/>
+<img alt="JUB" height=40 src="https://i2.wp.com/vunnithan.user.jacobs-university.de/wp-content/uploads/2013/07/cropped-logo.png?fit=647%2C593" align="right"/>
 
 - __NRU HSE__ "Applied Mathematics And Computer Science", 2020-2022
 
@@ -32,11 +33,11 @@ Frosendroska = Developer()
 
 ## 📂 Other achievements:
 
-__2022__ Grand from Jet Brains to study in Germany
+__2022__ Grant to study in Germany from JetBrains
 
-__2022__ [Certificate of C1 level of English](https://certs.duolingo.com/5ebe474dc8675eacad656573c50f81f7) 
+__2022__ [English language level certificate by Dualingo](https://certs.duolingo.com/5ebe474dc8675eacad656573c50f81f7) 
 
-__2022__ 5/5 GPA
+__2022__ 8.43/10 GPA and 5/55 in student rating
 
 __2020__ Graduated from high school with honours
 
