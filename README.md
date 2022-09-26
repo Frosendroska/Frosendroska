@@ -9,7 +9,7 @@ class Developer:
     def __init__(self):
         self.username = 'Frosendroska'
         self.name = 'Braun Ekaterina'
-        self.specialization = 'Still in search....'
+        self.linkedin = 'linkedin.com/in/frosendroska/'
         self.code = {
             'languages': ['C/C++', 'Java', 'Kotlin', 'Python', 'Haskell', 'Bash'],
             'technologies': ['Git', 'SQL', 'Spring', 'Docker', 'Latex', 'gRPC'],
