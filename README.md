@@ -11,9 +11,9 @@ class Developer:
         self.name = 'Braun Ekaterina'
         self.linkedin = 'linkedin.com/in/frosendroska/'
         self.code = {
-            'languages': ['C/C++', 'Java', 'Kotlin', 'Python', 'Haskell', 'Bash'],
+            'languages': ['Java', 'Kotlin', 'C/C++', 'Python', 'Haskell', 'Bash'],
             'technologies': ['Git', 'SQL', 'Spring', 'Docker', 'Latex', 'gRPC'],
-            'skills': ['Algorithms and Data Structures', 'Discrete Math', 'Calculus', 'Linear Algebra', 'Probability Theory', 'Machine Learning'],
+            'skills': ['Algorithms and Data Structures', 'Computer Vision', 'Machine Learning', 'Databases & Web Services'],
         }
         
 Frosendroska = Developer()
