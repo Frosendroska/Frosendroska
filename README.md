@@ -22,7 +22,7 @@ Frosendroska = Developer()
 
 ## 👩‍💻 Work:
 
-- __JET BRAINS RESEARCH__ "Test Prioritization system", 11.2022-current
+- __JET BRAINS RESEARCH__ "Working student", 11.2022-current
  
 
 ## 📚 Education:
