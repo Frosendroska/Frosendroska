@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Kate</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1></a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  width="30" height="30"/></h1>
 
 ## 👩 About me: 
 
