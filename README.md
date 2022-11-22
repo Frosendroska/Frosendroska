@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Kate</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1></a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1></a> 
 
 ## 👩 About me: 
 
@@ -21,7 +21,7 @@ Frosendroska = Developer()
 
 ## 👩‍💻 Work:
 
-- __JET BRAINS RESEARCH__ "Test Prioritization system", Nov.2022-current
+- __JET BRAINS RESEARCH__ "Test Prioritization system", 11.2022-current
  
 
 ## 📚 Education:
@@ -42,6 +42,8 @@ __2022__ Grant to study in Germany from JetBrains
 __2022__ [English language level certificate by Dualingo](https://certs.duolingo.com/5ebe474dc8675eacad656573c50f81f7) 
 
 __2022__ 8.43/10 GPA and 5/55 in student rating
+
+__2021__ [Publication about the pet-project](https://habr.com/ru/company/hsespb/blog/578276/)
 
 __2020__ Graduated from high school with honours
 
