@@ -19,13 +19,17 @@ class Developer:
 Frosendroska = Developer()
 ```
 
+## 👩‍💻 Work:
+
+- __JET BRAINS RESEARCH__ "Test Prioritization system", Nov.2022-current
+ 
 
 ## 📚 Education:
 
 <img alt="HSE" height=50 src="https://www.hse.ru/mirror/pubs/share/522219670" align="right"/>
 <img alt="JUB" height=50 src="https://i2.wp.com/vunnithan.user.jacobs-university.de/wp-content/uploads/2013/07/cropped-logo.png?fit=647%2C593" align="right"/>
 
-- __NRU HSE__ "Applied Mathematics And Computer Science", 2020-2022
+- __HSE__ "Applied Mathematics And Computer Science", 2020-2022
 
 - __JUB__ "Computer Science", 2022-2023
 
