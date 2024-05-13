@@ -10,19 +10,15 @@ class Developer:
         self.username = 'Frosendroska'
         self.name = 'Braun Ekaterina'
         self.linkedin = 'linkedin.com/in/frosendroska/'
-        self.code = {
-            'languages': ['Java', 'Kotlin', 'C/C++', 'Python', 'Haskell', 'Bash'],
-            'technologies': ['Git', 'SQL', 'Spring', 'Docker', 'Latex', 'gRPC'],
-            'skills': ['Algorithms and Data Structures', 'Computer Vision', 
-                       'Machine Learning', 'Databases & Web Services', 'Parallel Programming'],
-        }
         
 Frosendroska = Developer()
 ```
 
 ## 👩‍💻 Work:
 
-- __JET BRAINS RESEARCH__ "Working student", 11.2022-current
+- __JET BRAINS RESEARCH__ "Working student" 2022-2023
+- __SNOWFLAKE__ "Intern" 2023-2024
+- __JET BRAINS RESEARCH__ "Working student" 2024
  
 
 ## 📚 Education:
@@ -31,24 +27,8 @@ Frosendroska = Developer()
 <img alt="JUB" height=50 src="https://i2.wp.com/vunnithan.user.jacobs-university.de/wp-content/uploads/2013/07/cropped-logo.png?fit=647%2C593" align="right"/>
 
 - __HSE__ "Applied Mathematics And Computer Science", 2020-2022
-
 - __JUB__ "Computer Science", 2022-2023
-
-
-
-## 📂 Other achievements:
-
-__2022__ Grant to study in Germany from JetBrains
-
-__2022__ [English language level certificate by Dualingo](https://certs.duolingo.com/5ebe474dc8675eacad656573c50f81f7) 
-
-__2022__ 8.43/10 GPA and 5/55 in student rating
-
-__2021__ [Publication about the pet-project](https://habr.com/ru/company/hsespb/blog/578276/)
-
-__2020__ Graduated from high school with honours
-
-__2018__ English language level C1 certificate
+- __TUM__ "Informatics", 2022-2023
 
 
 ## 📈 Some GitHub statistic:
