@@ -26,6 +26,7 @@ Frosendroska = Developer()
 
 - __HSE__ "Applied Mathematics And Computer Science", 2020-2022
 - __JUB__ "Computer Science", 2022-2023
+- __JetBrains Academia__, 2022-2023
 - __TUM__ "Informatics", 2024-2026
 
 
