@@ -16,16 +16,17 @@ Frosendroska = Developer()
 
 ## 👩‍💻 Work:
 
-- __JET BRAINS RESEARCH__ "Working student" 2022-2023
-- __SNOWFLAKE__ "Intern" 2023-2024
-- __JET BRAINS RESEARCH__ "Working student" 2024
+- __SNOWFLAKE__ "Intern" 2024. San Mateo, USA
+- __JET BRAINS RESEARCH__ "Working student" 2022-2023. Munich, Germany
+- __SNOWFLAKE__ "Intern" 2023-2024. Berlin, Germany
+- __JET BRAINS RESEARCH__ "Working student" 2024. Remote, Germany
  
 
 ## 📚 Education:
 
 - __HSE__ "Applied Mathematics And Computer Science", 2020-2022
 - __JUB__ "Computer Science", 2022-2023
-- __TUM__ "Informatics", 2022-2023
+- __TUM__ "Informatics", 2024-2026
 
 
 ## 📈 Some GitHub statistic:
