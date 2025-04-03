@@ -16,6 +16,7 @@ Frosendroska = Developer()
 
 ## 👩‍💻 Work:
 
+- __CEDARDB__ "Working student" 2025. Munich, Germany
 - __SNOWFLAKE__ "Intern" 2024. San Mateo, USA
 - __JET BRAINS RESEARCH__ "Working student" 2022-2023. Munich, Germany
 - __SNOWFLAKE__ "Intern" 2023-2024. Berlin, Germany
